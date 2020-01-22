@@ -11,6 +11,8 @@ description:         'A reserved <a href="http://jekyllrb.com" target="_blank">J
 url:                 https://tape22.github.io/
 baseurl:             ''
 paginate:            5
+category_dir: category/
+tag_dir: tag/
 
 # About/contact
 author:

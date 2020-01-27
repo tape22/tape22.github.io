@@ -2,23 +2,21 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: false
+# relative_permalinks: true
 
 # Setup
 title:               정민이의 개발 아카이브
 tagline:             'A Jekyll theme'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 https://tape22.github.io/
+url:                 http://tape22.github.io
 baseurl:             ''
 paginate:            5
-category_dir: category/
-tag_dir: tag/
 
 # About/contact
 author:
   name:              JungMin Hur
-  url:               https://www.facebook.com/profile.php?id=100040358683434
-  email:             gjwjdlas@gmail.com
+  url:               https://github.com/tape22
+  email:             gjwjdlas@sookmyung.ac.kr
 
 # Custom vars
 version:             1.0.0

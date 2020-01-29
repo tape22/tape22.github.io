@@ -1,15 +1,13 @@
 # Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 # relative_permalinks: true
 
 # Setup
 title:               정민이의 개발 아카이브
-tagline:             'test'
-description:         'test'
+tagline:             "test"
+description:         "test"
 url:                 http://tape22.github.io
-baseurl:             ''
+baseurl:             ""
 paginate:            5
 
 # About/contact

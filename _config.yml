@@ -4,8 +4,8 @@ permalink:           pretty
 
 # Setup
 title:               정민이의 개발 아카이브
-tagline:             "test"
-description:         "test"
+tagline:             ""
+description:         ""
 url:                 http://tape22.github.io
 baseurl:             ""
 paginate:            5
